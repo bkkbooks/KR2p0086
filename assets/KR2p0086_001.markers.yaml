@@ -149,7 +149,7 @@ markers:
   - {type: punctuation, offset: 182, content: (, id: KR2p0086_tls_001-bkkpn79}
   - {type: punctuation, offset: 182, content: '?', id: KR2p0086_tls_001-bkkpn80}
   - {type: punctuation, offset: 182, content: ), id: KR2p0086_tls_001-bkkpn81}
-  - {type: 'voice:problem', offset: 182, length: 0, id: KR2p0086_bkk_001-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 182}
+  - {type: 'voice:problem', offset: 182, length: 0, id: KR2p0086_bkk_001-bkkvprob2, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 182}
   - {type: punctuation, offset: 184, content: '[', id: KR2p0086_tls_001-bkkpn82}
   - {type: substitution, offset: 184, original: 㫃, replacement: 偃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19992}}
   - {type: punctuation, offset: 186, content: （, id: KR2p0086_tls_001-bkkpn83}
@@ -247,4 +247,4 @@ markers:
   - {type: punctuation, offset: 320, content: 】, id: KR2p0086_tls_001-bkkpn133}
   - {type: xml-element, offset: 321, content: '', id: KR2p0086_tls_001-bkkxmlele20, name: p, role: close, attrs: {source: 'SHANGBO.BANGRENBUCHENG 9.58.10 (STRIPS 11, 12, 10) MACHENGYUAN 9: 257-258, 256 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:dc577f264c8a0a9786b96e3bd1f273de92e50c1f817eba16bf7e1ebfcee23eec
+hash: sha256:96f60d45507a4e16c0c0d48d1095e6a4343a23de3cfa023fad35c9fcab2d32c0
