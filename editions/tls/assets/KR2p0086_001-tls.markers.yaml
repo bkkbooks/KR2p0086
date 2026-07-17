@@ -145,6 +145,7 @@ markers:
   - {type: punctuation, offset: 182, content: (, id: KR2p0086_tls_001-bkkpn79}
   - {type: punctuation, offset: 182, content: '?', id: KR2p0086_tls_001-bkkpn80}
   - {type: punctuation, offset: 182, content: ), id: KR2p0086_tls_001-bkkpn81}
+  - {type: 'voice:problem', offset: 182, length: 0, id: KR2p0086_tls_001-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 182}
   - {type: punctuation, offset: 184, content: '[', id: KR2p0086_tls_001-bkkpn82}
   - {type: punctuation, offset: 186, content: （, id: KR2p0086_tls_001-bkkpn83}
   - {type: punctuation, offset: 187, content: '?', id: KR2p0086_tls_001-bkkpn84}
@@ -239,4 +240,4 @@ markers:
   - {type: punctuation, offset: 320, content: 】, id: KR2p0086_tls_001-bkkpn133}
   - {type: xml-element, offset: 321, content: '', id: KR2p0086_tls_001-bkkxmlele20, name: p, role: close, attrs: {source: 'SHANGBO.BANGRENBUCHENG 9.58.10 (STRIPS 11, 12, 10) MACHENGYUAN 9: 257-258, 256 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:53fd63bf2875dda8f605ed98db4f3afba385519d6649a415803778488572f3ad
+hash: sha256:e9a7a908af7505599c32263d68efecdbc7146bd6862e43d012eb0dfe84621d9e
